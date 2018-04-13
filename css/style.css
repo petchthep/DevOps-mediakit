@@ -9,6 +9,14 @@ text-decoration: none;
 }
 
 
+.jumbotron{
+	background-color: #DC2E2A;
+}
+
+.jumbotron p{
+	color: white;
+}
+
 .mediaops-header-row{
 	margin-bottom: 5%;
 }
@@ -81,8 +89,9 @@ font-size: 22px;
 }
 
 .section-title h3 {
-font-size: 120px;
+font-size: 80px;
 margin-left: 20px;
+margin-bottom: 5%;
 font-family: 'Raleway', sans-serif;
 color: red;
 font-weight: 100;
