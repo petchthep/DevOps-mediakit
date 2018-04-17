@@ -10,11 +10,13 @@ text-decoration: none;
 
 p{
 	font-size: 14px;
-	
+	font-family: 'Raleway', sans-serif;
+
 }
 
 li{
 	font-size: 14px;
+	font-family: 'Raleway', sans-serif;
 }
 
 .jumbotron{
